@@ -44,7 +44,7 @@ Another important thing to note is that this code pattern assumes that you're us
 
 Depending on where your service instance is you may have different ways to download the credentials file.
 
-> Need more information? See the [authentication wiki](https://github.com/IBM/node-sdk-core/blob/master/AUTHENTICATION.md).
+> Need more information? See the [authentication wiki](https://github.com/IBM/node-sdk-core/blob/master/Authentication.md).
 
 ### Automatically
 
